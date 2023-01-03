@@ -1,11 +1,4 @@
-﻿//
-//  main.cpp
-//  assignment3
-//
-//  Created by 이진희 on 2021/12/11.
-//
-
-#include <iostream>
+﻿#include <iostream>
 #include <vector>
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
